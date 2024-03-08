@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computing Pre-Release 2", "Computing Pre-Release 2.csproj", "{CE124B5A-D5C3-4C87-B944-6A1EE8CC41E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Computing Pre-Release 2", "Computing Pre-Release 2.csproj", "{CE124B5A-D5C3-4C87-B944-6A1EE8CC41E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z Task 1", "..\Z Task 1\Z Task 1.csproj", "{0036046F-8DA3-4AFC-9A2E-42A1C8829120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Z Task 1", "..\Z Task 1\Z Task 1.csproj", "{0036046F-8DA3-4AFC-9A2E-42A1C8829120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z Task 2", "..\Z Task 2\Z Task 2.csproj", "{7666DC96-AD9E-4B8B-A0B5-F9621EDB224F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Z Task 2", "..\Z Task 2\Z Task 2.csproj", "{7666DC96-AD9E-4B8B-A0B5-F9621EDB224F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z Task 3", "..\Z Task 3\Z Task 3.csproj", "{DB6ACF42-F65F-4525-A5C2-5EC6D866382C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Z Task 3", "..\Z Task 3\Z Task 3.csproj", "{DB6ACF42-F65F-4525-A5C2-5EC6D866382C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Z Task 11", "..\Z Task 11\Z Task 11.csproj", "{E01004C2-A1E7-440B-BF38-5A0767BAA1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z Task 12", "..\Z Task 12\Z Task 12.csproj", "{064EF874-01C6-421D-A73D-F65B8F85E78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z Task 14", "..\Z Task 14\Z Task 14.csproj", "{706B29BA-C663-4181-BDF2-A04A7978BB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z Task 15", "..\Z Task 15\Z Task 15.csproj", "{F1C6D9D8-3562-48C0-96C6-4F6A76C0C919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{DB6ACF42-F65F-4525-A5C2-5EC6D866382C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB6ACF42-F65F-4525-A5C2-5EC6D866382C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB6ACF42-F65F-4525-A5C2-5EC6D866382C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01004C2-A1E7-440B-BF38-5A0767BAA1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01004C2-A1E7-440B-BF38-5A0767BAA1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01004C2-A1E7-440B-BF38-5A0767BAA1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01004C2-A1E7-440B-BF38-5A0767BAA1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064EF874-01C6-421D-A73D-F65B8F85E78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064EF874-01C6-421D-A73D-F65B8F85E78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064EF874-01C6-421D-A73D-F65B8F85E78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064EF874-01C6-421D-A73D-F65B8F85E78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706B29BA-C663-4181-BDF2-A04A7978BB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706B29BA-C663-4181-BDF2-A04A7978BB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706B29BA-C663-4181-BDF2-A04A7978BB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706B29BA-C663-4181-BDF2-A04A7978BB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C6D9D8-3562-48C0-96C6-4F6A76C0C919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C6D9D8-3562-48C0-96C6-4F6A76C0C919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C6D9D8-3562-48C0-96C6-4F6A76C0C919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C6D9D8-3562-48C0-96C6-4F6A76C0C919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
